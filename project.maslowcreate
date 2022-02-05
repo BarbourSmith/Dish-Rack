@@ -1211,6 +1211,19 @@
                     ]
                 },
                 {
+                    "atomType": "CutList",
+                    "name": "Add To Cutlist",
+                    "x": 0.5238095238095238,
+                    "y": 0.4871794871794871,
+                    "uniqueID": 773023,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/740756/377264/975139Move"
+                        }
+                    ]
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 0.2156084656084656,
@@ -1247,13 +1260,13 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.5648148148148149,
-                    "y": 0.49679487179487186,
+                    "x": 0.7235449735449735,
+                    "y": 0.44230769230769235,
                     "uniqueID": 595414,
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "source/740756/377264/975139Move"
+                            "ioValue": "source/740756/377264/773023CutList"
                         },
                         {
                             "name": "x-axis degrees",
@@ -1362,6 +1375,13 @@
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 975139,
+                    "ap2ID": 773023
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 773023,
                     "ap2ID": 595414
                 },
                 {
