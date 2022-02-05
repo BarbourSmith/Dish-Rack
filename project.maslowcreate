@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "Dish Rack",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 740756,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9867724867724867,
+            "y": 0.5,
+            "uniqueID": 301736,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": "0.101"
+}
