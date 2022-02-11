@@ -1421,7 +1421,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 21
+                            "ioValue": 20.5
                         },
                         {
                             "name": "y length",
